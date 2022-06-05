@@ -4,5 +4,6 @@ mod find_disappeared_numbers;
 mod single_number;
 mod climb_stairs;
 mod max_profit;
+mod max_sub_array;
 
 struct Solution;
