@@ -8,4 +8,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
+- [x] [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/)
 
