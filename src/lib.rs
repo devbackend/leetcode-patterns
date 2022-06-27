@@ -10,5 +10,6 @@ mod count_bits;
 mod middle_node;
 mod list_node;
 mod reverse_list;
+mod is_palindrome;
 
 struct Solution;
