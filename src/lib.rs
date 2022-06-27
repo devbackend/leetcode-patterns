@@ -8,5 +8,7 @@ mod max_sub_array;
 mod sum_range;
 mod count_bits;
 mod middle_node;
+mod list_node;
+mod reverse_list;
 
 struct Solution;

@@ -12,4 +12,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [x] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ([Go solution](https://github.com/devbackend/go-leetcode/blob/master/pkg/easy/linked_list_cycle.go))
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 

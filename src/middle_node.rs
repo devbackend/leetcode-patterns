@@ -1,3 +1,4 @@
+use crate::list_node::ListNode;
 use crate::Solution;
 
 impl Solution {
@@ -24,7 +25,7 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use crate::middle_node::ListNode;
+    use crate::list_node::ListNode;
     use crate::Solution;
 
     #[test]
@@ -101,23 +102,5 @@ mod tests {
         );
 
         assert_eq!(node.as_ref().unwrap().next.as_ref().unwrap().next, Solution::middle_node(node.clone()))
-    }
-}
-
-#[derive(PartialEq, Eq, Clone, Debug)]
-pub struct ListNode {
-    pub val: i32,
-    pub next: Option<Box<ListNode>>,
-}
-
-impl ListNode {
-    #[inline]
-    fn new(val: i32, next: Option<Box<ListNode>>) -> Self {
-        ListNode { val, next }
-    }
-
-    #[inline]
-    fn new_box(val: i32, next: Option<Box<ListNode>>) -> Box<Self> {
-        Box::new(ListNode::new(val, next))
     }
 }
