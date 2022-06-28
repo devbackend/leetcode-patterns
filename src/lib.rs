@@ -14,5 +14,6 @@ mod is_palindrome;
 mod merge_two_lists;
 mod search;
 mod next_greatest_letter;
+mod two_sum;
 
 struct Solution;
