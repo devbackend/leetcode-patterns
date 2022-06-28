@@ -11,5 +11,6 @@ mod middle_node;
 mod list_node;
 mod reverse_list;
 mod is_palindrome;
+mod merge_two_lists;
 
 struct Solution;

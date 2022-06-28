@@ -14,4 +14,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
 - [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
+- [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 

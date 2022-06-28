@@ -6,12 +6,12 @@ pub struct ListNode {
 
 impl ListNode {
     #[inline]
-    pub fn new(val: i32, next: Option<Box<ListNode>>) -> Self {
-        ListNode { val, next }
+    pub fn new(val: i32) -> Self {
+        ListNode { val, next: None }
     }
 
     #[inline]
     pub fn new_box(val: i32, next: Option<Box<ListNode>>) -> Box<Self> {
-        Box::new(ListNode::new(val, next))
+        Box::new(ListNode{val, next})
     }
 }
