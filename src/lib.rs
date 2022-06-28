@@ -13,5 +13,6 @@ mod reverse_list;
 mod is_palindrome;
 mod merge_two_lists;
 mod search;
+mod next_greatest_letter;
 
 struct Solution;

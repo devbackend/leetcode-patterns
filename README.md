@@ -16,4 +16,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [x] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
+- [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 
