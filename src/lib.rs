@@ -15,5 +15,6 @@ mod merge_two_lists;
 mod search;
 mod next_greatest_letter;
 mod two_sum;
+mod remove_elements;
 
 struct Solution;
