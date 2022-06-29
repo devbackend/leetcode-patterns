@@ -16,5 +16,6 @@ mod search;
 mod next_greatest_letter;
 mod two_sum;
 mod remove_elements;
+mod delete_duplicates;
 
 struct Solution;
