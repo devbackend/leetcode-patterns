@@ -20,4 +20,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Binary Search](https://leetcode.com/problems/binary-search/)
 - [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
+- [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 
