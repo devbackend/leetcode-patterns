@@ -21,4 +21,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
+- [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 

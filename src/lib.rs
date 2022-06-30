@@ -18,5 +18,6 @@ mod two_sum;
 mod remove_elements;
 mod delete_duplicates;
 mod can_attend_meetings;
+mod peak_index_in_mountain_array;
 
 struct Solution;
