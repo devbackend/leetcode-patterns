@@ -22,4 +22,5 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
