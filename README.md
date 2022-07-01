@@ -1,6 +1,6 @@
-Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
---
+# Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 
+## Easy
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [x] [Missing Number](https://leetcode.com/problems/missing-number/)
 - [x] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
@@ -23,4 +23,4 @@ Solutions for [Leetcode patterns](https://seanprashad.com/leetcode-patterns/)
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-
+- [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)

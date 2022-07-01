@@ -20,5 +20,6 @@ mod delete_duplicates;
 mod can_attend_meetings;
 mod peak_index_in_mountain_array;
 mod spiral_order;
+mod sorted_squares;
 
 struct Solution;
