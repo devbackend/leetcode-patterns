@@ -22,5 +22,6 @@ mod peak_index_in_mountain_array;
 mod spiral_order;
 mod sorted_squares;
 mod find_duplicates;
+mod set_zeroes;
 
 struct Solution;

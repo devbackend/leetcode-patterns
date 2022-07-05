@@ -27,3 +27,4 @@
 ## Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
