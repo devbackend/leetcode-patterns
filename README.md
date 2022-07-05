@@ -22,5 +22,8 @@
 - [x] [Two Sum](https://leetcode.com/problems/two-sum/)
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
-- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+
+## Medium
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
