@@ -23,5 +23,6 @@ mod spiral_order;
 mod sorted_squares;
 mod find_duplicates;
 mod set_zeroes;
+mod find_duplicate;
 
 struct Solution;
