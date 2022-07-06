@@ -31,5 +31,6 @@ mod find_duplicate;
 mod average_of_levels;
 mod is_same_tree;
 mod min_depth;
+mod has_path_sum;
 
 struct Solution;

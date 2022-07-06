@@ -26,6 +26,7 @@
 - [x] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
+- [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 
 ## Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
