@@ -1,4 +1,8 @@
+// Structs
 mod list_node;
+mod tree_node;
+
+// Solutions
 mod contains_duplicate;
 mod missing_number;
 mod find_disappeared_numbers;
@@ -25,5 +29,6 @@ mod find_duplicates;
 mod set_zeroes;
 mod find_duplicate;
 mod average_of_levels;
+mod is_same_tree;
 
 struct Solution;

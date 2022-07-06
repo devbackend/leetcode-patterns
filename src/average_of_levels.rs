@@ -2,6 +2,7 @@ use std::cell::RefCell;
 use std::rc::Rc;
 
 use crate::Solution;
+use crate::tree_node::TreeNode;
 
 impl Solution {
     pub fn average_of_levels(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<f64> {
@@ -43,8 +44,8 @@ mod tests {
     use std::cell::RefCell;
     use std::rc::Rc;
 
-    use crate::average_of_levels::TreeNode;
     use crate::Solution;
+    use crate::tree_node::TreeNode;
 
     struct TestCase {
         root: Option<Rc<RefCell<TreeNode>>>,
@@ -112,25 +113,6 @@ mod tests {
 
         for tc in test_cases {
             assert_eq!(tc.expected, Solution::average_of_levels(tc.root));
-        }
-    }
-}
-
-// Definition for a binary tree node.
-#[derive(Debug, PartialEq, Eq)]
-pub struct TreeNode {
-    pub val: i32,
-    pub left: Option<Rc<RefCell<TreeNode>>>,
-    pub right: Option<Rc<RefCell<TreeNode>>>,
-}
-
-impl TreeNode {
-    #[inline]
-    pub fn new(val: i32) -> Self {
-        TreeNode {
-            val,
-            left: None,
-            right: None,
         }
     }
 }

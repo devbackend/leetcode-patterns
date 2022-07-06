@@ -6,12 +6,12 @@ impl Solution {
             return vec![nums[0] * nums[0]];
         }
 
-        let mut nums = nums;
+        let nums = nums;
 
         let mut first = 0;
         let mut second = nums.len() - 1;
 
-        let mut res = vec![0; nums.len()];;
+        let mut res = vec![0; nums.len()];
 
         for i in (0..nums.len()).rev() {
             let first_sq = nums[first] * nums[first];
