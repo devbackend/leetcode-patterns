@@ -24,5 +24,6 @@ mod sorted_squares;
 mod find_duplicates;
 mod set_zeroes;
 mod find_duplicate;
+mod average_of_levels;
 
 struct Solution;

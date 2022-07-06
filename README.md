@@ -23,6 +23,7 @@
 - [x] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms)
 - [x] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+- [x] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 
 ## Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
