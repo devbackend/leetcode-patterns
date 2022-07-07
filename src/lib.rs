@@ -32,5 +32,6 @@ mod average_of_levels;
 mod is_same_tree;
 mod min_depth;
 mod has_path_sum;
+mod merge_k_lists;
 
 struct Solution;
