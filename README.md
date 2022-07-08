@@ -27,6 +27,7 @@
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [x] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
 ## Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
