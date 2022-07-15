@@ -38,5 +38,6 @@ mod product_except_self;
 mod construct2_d_array;
 mod level_order;
 mod max_depth;
+mod majority_element;
 
 struct Solution;

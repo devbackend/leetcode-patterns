@@ -48,6 +48,7 @@ mod tests {
 
         for tc in test_cases {
             assert_eq!(tc.expected, Solution::count_bits(tc.num));
+            assert_eq!(tc.expected, Solution::count_bits_with_builtin(tc.num));
         }
     }
 }

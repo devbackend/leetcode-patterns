@@ -31,8 +31,6 @@ impl Solution {
 
 #[cfg(test)]
 mod tests {
-    use std::ptr::null;
-
     use crate::Solution;
 
     struct TestCase {
