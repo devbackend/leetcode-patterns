@@ -40,5 +40,6 @@ mod level_order;
 mod max_depth;
 mod majority_element;
 mod rotate;
+mod find_target_sum_ways;
 
 struct Solution;

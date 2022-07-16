@@ -40,6 +40,7 @@
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
 - [x] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Target Sum](https://leetcode.com/problems/target-sum/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
