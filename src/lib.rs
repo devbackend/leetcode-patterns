@@ -39,5 +39,6 @@ mod construct2_d_array;
 mod level_order;
 mod max_depth;
 mod majority_element;
+mod rotate;
 
 struct Solution;
