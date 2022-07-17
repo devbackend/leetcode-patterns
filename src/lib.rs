@@ -32,6 +32,7 @@ mod average_of_levels;
 mod is_same_tree;
 mod min_depth;
 mod has_path_sum;
+mod diameter_of_binary_tree;
 mod merge_k_lists;
 mod backspace_compare;
 mod product_except_self;

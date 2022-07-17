@@ -25,6 +25,7 @@
 - [x] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
 - [x] [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [x] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [x] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
