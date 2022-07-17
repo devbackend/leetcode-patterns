@@ -43,5 +43,6 @@ mod majority_element;
 mod rotate;
 mod find_target_sum_ways;
 mod partition;
+mod longest_consecutive;
 
 struct Solution;

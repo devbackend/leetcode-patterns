@@ -43,6 +43,7 @@
 - [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
 - [x] [Target Sum](https://leetcode.com/problems/target-sum/)
 - [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+- [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
