@@ -47,3 +47,4 @@
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
