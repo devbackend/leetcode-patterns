@@ -49,3 +49,4 @@
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/) ([Go solution](https://github.com/devbackend/go-leetcode/blob/master/pkg/hard/median_sorted_arrays.go))
