@@ -46,5 +46,6 @@ mod partition;
 mod longest_consecutive;
 mod first_missing_positive;
 mod rob;
+mod generate_parenthesis;
 
 struct Solution;
