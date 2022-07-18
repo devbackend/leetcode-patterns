@@ -45,5 +45,6 @@ mod find_target_sum_ways;
 mod partition;
 mod longest_consecutive;
 mod first_missing_positive;
+mod rob;
 
 struct Solution;

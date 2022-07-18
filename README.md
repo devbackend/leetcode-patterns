@@ -44,6 +44,7 @@
 - [x] [Target Sum](https://leetcode.com/problems/target-sum/)
 - [x] [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
+- [x] [House Robber](https://leetcode.com/problems/house-robber/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
