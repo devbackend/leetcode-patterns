@@ -29,6 +29,7 @@
 - [x] [Same Tree](https://leetcode.com/problems/same-tree/)
 - [x] [Path Sum](https://leetcode.com/problems/path-sum/)
 - [x] [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [x] [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)
