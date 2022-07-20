@@ -49,5 +49,6 @@ mod rob;
 mod generate_parenthesis;
 mod invert_tree;
 mod merge_trees;
+mod is_subtree;
 
 struct Solution;
