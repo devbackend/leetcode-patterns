@@ -50,6 +50,7 @@
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [x] [House Robber](https://leetcode.com/problems/house-robber/)
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+- [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
