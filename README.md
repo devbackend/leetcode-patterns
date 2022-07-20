@@ -32,6 +32,7 @@
 - [x] [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [x] [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [x] [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [x] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 - [x] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 - [x] [Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/)
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)

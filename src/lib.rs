@@ -50,5 +50,6 @@ mod generate_parenthesis;
 mod invert_tree;
 mod merge_trees;
 mod is_subtree;
+mod lowest_common_ancestor;
 
 struct Solution;
