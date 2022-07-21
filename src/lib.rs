@@ -52,5 +52,6 @@ mod merge_trees;
 mod is_subtree;
 mod lowest_common_ancestor;
 mod can_jump;
+mod exist;
 
 struct Solution;
