@@ -52,6 +52,7 @@
 - [x] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
 - [x] [Jump Game](https://leetcode.com/problems/jump-game/)
 - [x] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)

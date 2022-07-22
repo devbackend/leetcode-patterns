@@ -53,5 +53,6 @@ mod is_subtree;
 mod lowest_common_ancestor;
 mod can_jump;
 mod exist;
+mod coin_change;
 
 struct Solution;
