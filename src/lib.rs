@@ -54,5 +54,6 @@ mod lowest_common_ancestor;
 mod can_jump;
 mod exist;
 mod coin_change;
+mod letter_case_permutation;
 
 struct Solution;
