@@ -56,5 +56,6 @@ mod exist;
 mod coin_change;
 mod letter_case_permutation;
 mod subsets;
+mod permute;
 
 struct Solution;

@@ -55,6 +55,7 @@
 - [x] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [x] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/)
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
+- [x] [Permutations](https://leetcode.com/problems/permutations/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
