@@ -58,5 +58,6 @@ mod letter_case_permutation;
 mod subsets;
 mod permute;
 mod combine;
+mod combination_sum;
 
 struct Solution;
