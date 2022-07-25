@@ -59,5 +59,6 @@ mod subsets;
 mod permute;
 mod combine;
 mod combination_sum;
+mod letter_combinations;
 
 struct Solution;
