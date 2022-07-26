@@ -60,5 +60,6 @@ mod permute;
 mod combine;
 mod combination_sum;
 mod letter_combinations;
+mod max_product;
 
 struct Solution;
