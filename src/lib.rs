@@ -62,5 +62,6 @@ mod combination_sum;
 mod letter_combinations;
 mod max_product;
 mod rob_circle;
+mod add_two_numbers;
 
 struct Solution;
