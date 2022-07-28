@@ -63,5 +63,6 @@ mod letter_combinations;
 mod max_product;
 mod rob_circle;
 mod add_two_numbers;
+mod solve_n_queens;
 
 struct Solution;
