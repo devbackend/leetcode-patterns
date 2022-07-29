@@ -64,5 +64,6 @@ mod max_product;
 mod rob_circle;
 mod add_two_numbers;
 mod solve_n_queens;
+mod num_decodings;
 
 struct Solution;

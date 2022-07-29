@@ -62,6 +62,7 @@
 - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+- [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
