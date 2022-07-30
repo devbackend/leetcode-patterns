@@ -65,5 +65,6 @@ mod rob_circle;
 mod add_two_numbers;
 mod solve_n_queens;
 mod num_decodings;
+mod unique_paths;
 
 struct Solution;

@@ -63,6 +63,7 @@
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
+- [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
