@@ -64,6 +64,7 @@
 - [x] [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
 - [x] [Decode Ways](https://leetcode.com/problems/decode-ways/)
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)

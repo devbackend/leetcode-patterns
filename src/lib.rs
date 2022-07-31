@@ -66,5 +66,6 @@ mod add_two_numbers;
 mod solve_n_queens;
 mod num_decodings;
 mod unique_paths;
+mod can_partition;
 
 struct Solution;
