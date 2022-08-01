@@ -67,5 +67,6 @@ mod solve_n_queens;
 mod num_decodings;
 mod unique_paths;
 mod can_partition;
+mod longest_palindrome;
 
 struct Solution;
