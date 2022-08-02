@@ -68,5 +68,6 @@ mod num_decodings;
 mod unique_paths;
 mod can_partition;
 mod longest_palindrome;
+mod subsets_with_dup;
 
 struct Solution;
