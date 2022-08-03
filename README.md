@@ -67,6 +67,7 @@
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [x] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/)
 - [x] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+- [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
