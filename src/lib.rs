@@ -70,5 +70,6 @@ mod can_partition;
 mod longest_palindrome;
 mod subsets_with_dup;
 mod length_of_lis;
+mod count_substrings;
 
 struct Solution;
