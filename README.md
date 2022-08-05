@@ -58,6 +58,7 @@
 - [x] [Subsets](https://leetcode.com/problems/subsets/)
 - [x] [Subsets II](https://leetcode.com/problems/subsets-ii/)
 - [x] [Permutations](https://leetcode.com/problems/permutations/)
+- [x] [Permutations II](https://leetcode.com/problems/permutations-ii/)
 - [x] [Combinations](https://leetcode.com/problems/combinations/)
 - [x] [Combination Sum](https://leetcode.com/problems/combination-sum/)
 - [x] [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
