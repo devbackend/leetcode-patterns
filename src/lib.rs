@@ -72,5 +72,6 @@ mod subsets_with_dup;
 mod length_of_lis;
 mod count_substrings;
 mod permute_unique;
+mod combination_sum2;
 
 struct Solution;
