@@ -74,5 +74,6 @@ mod count_substrings;
 mod permute_unique;
 mod combination_sum2;
 mod combination_sum3;
+mod combination_sum4;
 
 struct Solution;
