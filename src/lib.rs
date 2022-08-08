@@ -75,5 +75,6 @@ mod permute_unique;
 mod combination_sum2;
 mod combination_sum3;
 mod combination_sum4;
+mod find_min;
 
 struct Solution;
