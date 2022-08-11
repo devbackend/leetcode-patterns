@@ -76,6 +76,7 @@
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] [Word Break](https://leetcode.com/problems/word-break/)
+- [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
