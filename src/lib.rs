@@ -79,5 +79,6 @@ mod find_min;
 mod find_peak_element;
 mod word_break;
 mod merge;
+mod insert;
 
 struct Solution;

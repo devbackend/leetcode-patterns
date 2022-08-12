@@ -77,6 +77,7 @@
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] [Word Break](https://leetcode.com/problems/word-break/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
