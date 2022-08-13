@@ -80,5 +80,6 @@ mod find_peak_element;
 mod word_break;
 mod merge;
 mod insert;
+mod find_number_of_lis;
 
 struct Solution;
