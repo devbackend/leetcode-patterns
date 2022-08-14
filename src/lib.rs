@@ -1,3 +1,5 @@
+extern crate core;
+
 // Structs
 mod list_node;
 mod tree_node;
@@ -81,5 +83,6 @@ mod word_break;
 mod merge;
 mod insert;
 mod find_number_of_lis;
+mod can_partition_k_subsets;
 
 struct Solution;

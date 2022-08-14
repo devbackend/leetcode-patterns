@@ -79,6 +79,7 @@
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [x] [Insert Interval](https://leetcode.com/problems/insert-interval/)
 - [x] [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+- [x] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
