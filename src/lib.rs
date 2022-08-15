@@ -11,6 +11,7 @@ mod find_disappeared_numbers;
 mod single_number;
 mod climb_stairs;
 mod max_profit;
+mod max_profit_two;
 mod max_sub_array;
 mod sum_range;
 mod count_bits;
