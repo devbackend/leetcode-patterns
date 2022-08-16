@@ -85,5 +85,6 @@ mod merge;
 mod insert;
 mod find_number_of_lis;
 mod can_partition_k_subsets;
+mod interval_intersection;
 
 struct Solution;
