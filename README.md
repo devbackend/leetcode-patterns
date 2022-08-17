@@ -82,6 +82,7 @@
 - [x] [Partition to K Equal Sum Subsets](https://leetcode.com/problems/partition-to-k-equal-sum-subsets/)
 - [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [x] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [x] [Sort List](https://leetcode.com/problems/sort-list/) ([Go solution](https://github.com/devbackend/go-leetcode/blob/master/pkg/medium/sort_list.go))
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
