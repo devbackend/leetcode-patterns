@@ -83,6 +83,7 @@
 - [x] [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
 - [x] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
 - [x] [Sort List](https://leetcode.com/problems/sort-list/) ([Go solution](https://github.com/devbackend/go-leetcode/blob/master/pkg/medium/sort_list.go))
+- [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
