@@ -87,5 +87,6 @@ mod find_number_of_lis;
 mod can_partition_k_subsets;
 mod interval_intersection;
 mod search_matrix;
+mod sort_colors;
 
 struct Solution;
