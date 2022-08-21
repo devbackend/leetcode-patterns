@@ -88,5 +88,6 @@ mod can_partition_k_subsets;
 mod interval_intersection;
 mod search_matrix;
 mod sort_colors;
+mod max_area;
 
 struct Solution;
