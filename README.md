@@ -86,6 +86,7 @@
 - [x] [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
+- [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)

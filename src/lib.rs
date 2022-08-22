@@ -89,5 +89,6 @@ mod interval_intersection;
 mod search_matrix;
 mod sort_colors;
 mod max_area;
+mod min_sub_array_len;
 
 struct Solution;
