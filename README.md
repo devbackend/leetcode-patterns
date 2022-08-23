@@ -87,6 +87,7 @@
 - [x] [Sort Colors](https://leetcode.com/problems/sort-colors/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 - [x] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
