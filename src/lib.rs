@@ -91,5 +91,6 @@ mod sort_colors;
 mod max_area;
 mod min_sub_array_len;
 mod erase_overlap_intervals;
+mod total_fruit;
 
 struct Solution;
