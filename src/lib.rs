@@ -92,5 +92,6 @@ mod max_area;
 mod min_sub_array_len;
 mod erase_overlap_intervals;
 mod total_fruit;
+mod length_of_longest_substring;
 
 struct Solution;
