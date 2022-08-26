@@ -1,5 +1,3 @@
-extern crate core;
-
 // Structs
 mod list_node;
 mod tree_node;
@@ -93,5 +91,6 @@ mod min_sub_array_len;
 mod erase_overlap_intervals;
 mod total_fruit;
 mod length_of_longest_substring;
+mod three_sum;
 
 struct Solution;

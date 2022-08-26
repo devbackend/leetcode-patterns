@@ -90,6 +90,7 @@
 - [x] [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/)
 - [x] [Fruit Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [x] [3Sum](https://leetcode.com/problems/3sum/)
 
 ## Hard
 - [x] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
