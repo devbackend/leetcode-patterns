@@ -92,5 +92,6 @@ mod erase_overlap_intervals;
 mod total_fruit;
 mod length_of_longest_substring;
 mod three_sum;
+mod search_rotated_array;
 
 struct Solution;

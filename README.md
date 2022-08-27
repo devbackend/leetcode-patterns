@@ -74,6 +74,7 @@
 - [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [x] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 - [x] [Word Break](https://leetcode.com/problems/word-break/)
 - [x] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
