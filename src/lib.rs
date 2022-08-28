@@ -93,5 +93,6 @@ mod total_fruit;
 mod length_of_longest_substring;
 mod three_sum;
 mod search_rotated_array;
+mod search_rotated_array_two;
 
 struct Solution;
